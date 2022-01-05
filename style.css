@@ -1,0 +1,388 @@
+*{margin:0;padding:0;}
+#Fristsec{background:
+    linear-gradient(#00000075,#00000075),
+    linear-gradient(#00000075,#00000075),
+    url("Tong image/baner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 90px;
+    overflow: hidden;
+}
+div#logo {
+    float: left;
+    width: 120px;
+}
+
+div#manudiv {
+    width: 620px;
+    float: right;
+    margin-top: 15px;
+}
+
+div#fsectionrapper {
+    width: 1170px;
+    margin: auto;
+}
+
+li#limanu {
+    color: white;
+    list-style: none;
+    display: inline;
+    padding: 0px 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    transition-duration:0.4s;
+}
+div#logomanurapper {
+    padding: 30px 0px;
+    overflow: hidden;
+}
+p#frelanc {
+    font-size: 20px;
+    color: white;
+    font-family: cursive;
+}
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: arial black;
+    color: white;
+    text-transform: capitalize;
+    padding: 30px 0px;
+}
+
+div#info {
+    overflow: hidden;
+    margin-top: 80px;
+}
+
+span#first {
+    color: #c70039;
+}
+.frelanceb {
+    font-size: 18px;
+    padding: 12px 30px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin-top: 65px;
+    margin-right: 20px;
+    font-family: arial;
+}
+
+.frelancebs {
+    font-size: 18px;
+    padding: 12px 30px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin-top: 65px;
+    margin-right: 20px;
+    font-family: arial;
+    background: #c70039;
+    color: white;
+}
+section.secondsection {
+    padding: 30px 0px;
+    overflow: hidden;
+}
+
+.ulli {
+    width: 750px;
+    /* background: rebeccapurple; */
+    margin: auto;
+    padding: 30px 0px;
+}
+
+.secondrapper {
+    width: 1170px;
+    margin: auto;
+}
+
+li#listt {
+    list-style: none;
+    display: inline;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 19px;
+    background: #f4f2f7;
+    border-radius: 20px;
+    margin: 0px 3px;
+    box-shadow: 0px 3px 7px 2px #e7e1e1;
+    color: #3c3a3a;
+    font-weight: 600;
+    transition-duration:0.8s;
+}
+.imagef {width: 355px;display: inline-block;margin: 15px;border-radius: 10px;overflow: hidden;}
+
+img {
+    width: 100%;
+}
+
+.colomdiv {
+    padding: 20px 0px;
+}
+section.thirdsection {
+    overflow: hidden;
+    background: #f7f7f79e;
+    padding: 50px 0px;
+}
+
+.thirdrapper {
+    width: 1170px;
+    margin: auto;
+}
+
+.proser {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 60px;
+}
+
+h2#htow {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #222222;
+}
+
+span.color {
+    color: #c70039;
+}
+
+p.containt {
+    font-size: 18px;
+    padding: 15px 0px;
+    font-family: -webkit-pictograph;
+    color: #3e3e3e;
+}
+div#colorrr {
+    width: 50px;
+    background: #c70039;
+    height: 3px;
+    margin: auto;
+}
+.themforest {
+    width: 300px;
+    background: white;
+    text-align: center;
+    padding: 50px 25px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 10px 0px #aba7af;
+    display: inline-block;
+    margin: 15px;
+    transition-duration:0.8s;
+}
+
+.icon {
+    font-size: 40px;
+    background: #c70039;
+    width: 100px;
+    margin: auto;
+    border-radius: 50px;
+    padding: 25px 0px;
+    color: white;
+    transition-duration: 0.5s;
+}
+
+h4.net {
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: arial;
+    color: #1e1e1d;
+    transition-duration:0.8s;
+}
+
+p.class {
+    font-size: 17px;
+    font-family: arial;
+    margin-top: 20px;
+    line-height: 22px;
+    margin-bottom: 30px;
+}
+#forthsec {
+    background-image: linear-gradient(#00000075,#00000075),
+    linear-gradient(#00000075,#00000075),
+    url("Tong image/fsd.jpg");
+    overflow: hidden;
+    background-repeat: no-repeat;
+    padding: 50px 0px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sorce {
+    padding: 25px 10px;
+    background: #c70039;
+    width: 250px;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: white;
+    border-radius: 7px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    display: inline-block;
+    margin: 25px 9px;
+}
+
+div#forthraper {
+    width: 1170px;
+    margin: auto;
+}
+section#fivesection {
+    overflow: hidden;
+    padding: 100px 0px;
+    background: #f1efef;
+}
+div#teamphoto {
+    width: 260px;
+    text-align: center;
+    border-radius: 8px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 7px 7px 14px 0px #ebebe5;
+    display: inline-block;
+    margin: 0px 14px;
+}
+
+h4#jhon {
+    font-size: 20px;
+    font-family: system-ui;
+    color: #262626;
+    padding: 10px 0px;
+}
+
+h5#ceo {
+    font-size: 16px;
+    color: #c70039;
+}
+
+p#containg {
+    font-size: 18px;
+    font-family: arial;
+    color: #707070;
+    padding: 15px 30px;
+    margin-bottom: 15px;
+}
+span#onetine {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: arial black;
+}
+div#chanelimg {
+    width: 165px;
+    display: inline-block;
+    background: white;
+    overflow: hidden;
+    margin: 0px 11px;
+    padding: 21px;
+    border-radius: 6px;
+    box-shadow: 5px 3px 14px 4px #e7e7e7;
+}
+
+section#sixsection {
+    overflow: hidden;
+    padding: 100px 0px;
+    background: white;
+}
+div#lastimg {border-radius: 10px;overflow: hidden;}
+
+div#lastrapper {
+    width: 365px;
+    box-shadow: 6px 6px 12px 0px #d7d7d7;
+    border-radius: 9px;
+    background: white;
+    overflow: hidden;
+    display: inline-block;
+    margin: 10px;
+}
+
+p#lst {
+    background: #c70039;
+    width: 146px;
+    padding: 10px 0px;
+    font-size: 18px;
+    font-family: cursive;
+    border-radius: 5px;
+    color: white;
+    margin-top: 25px;
+}
+
+h4#las {
+    font-size: 20px;
+    font-family: arial;
+    color: #2e2c2c;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+span#fontw {
+    color: #c70039;
+}
+
+p#lastblogs {
+    font-size: 18px;
+    font-family: serif;
+    color: #2e2c2c;
+    margin-top: 15px;
+    padding-bottom: 40px;
+    line-height: 22px;
+}
+div#padding {
+    margin-left: 20px;
+    overflow: hidden;
+}
+footer#lastfooter {
+    text-align: center;
+    padding: 25px 0px;
+    font-size: 25px;
+    background: #161414;
+    color: white;
+    font-family: arial;
+}
+.imagef img{transition-duration: 1s;}
+.imagef img:hover{transform: scale(1.1);}
+#listt:first-child{background: #c70039;color:white;}
+#limanu:hover{color: #c70039;
+    border-bottom:1px solid white;
+}
+span#linkupf a {
+    color: white;
+    background: #1f874d;
+    padding: 10px 12px;
+    border-radius: 50px;
+    font-size: 12px;
+}
+span#linkupg a {
+    color: white;
+    background: #0037ff;
+    padding: 10px 14px;
+    border-radius: 50px;
+    font-size: 12px;
+}
+span#linkupd a {
+    color: white;
+    background: #232f58;
+    padding: 10px 12px;
+    border-radius: 50px;
+    font-size: 12px;
+}
+div#linkuprap {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    position: absolute;
+    width: 260px;
+    visibility: hidden;
+}
+#listt:hover{background: #c70039;
+    color: white;
+}
+div#jhonrap {
+    position: relative;
+}
+.themforest:hover .net{color: white;}
+.themforest:hover{background:#c70039;color:white}
+.themforest:hover .icon{background:white;color: #c70039;}
+#teamimg:hover #linkuprap{ margin-top: -40px; visibility: visible;transition: 1s;}
